@@ -5,4 +5,4 @@ def palindrome(n):
     else: 
         print(False)
    
-palindrome('лепсвпел')
+palindrome('лепсcпел')
